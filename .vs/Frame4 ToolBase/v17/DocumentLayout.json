@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{CAAC89BA-66AA-46A0-AD68-94C66DD5F2DE}|Frame4 ToolBase.csproj|solutionrelative:main\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAAC89BA-66AA-46A0-AD68-94C66DD5F2DE}|Frame4 ToolBase.csproj|c:\\users\\keato\\documents\\playstation projects 024\\frame4 toolbase\\main\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAAC89BA-66AA-46A0-AD68-94C66DD5F2DE}|Frame4 ToolBase.csproj|C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\main\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAAC89BA-66AA-46A0-AD68-94C66DD5F2DE}|Frame4 ToolBase.csproj|solutionrelative:main\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,8 @@
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "Main\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.Designer.cs",
-              "RelativeToolTip": "Main\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.Designer.cs*",
+              "RelativeToolTip": "Main\\MainForm.Designer.cs*",
               "ViewState": "AQIAAGMAAAAAAAAAAAAwwIEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T07:00:01.789Z",
@@ -43,8 +43,8 @@
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.cs",
               "RelativeDocumentMoniker": "Main\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.cs",
-              "RelativeToolTip": "Main\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.cs*",
+              "RelativeToolTip": "Main\\MainForm.cs*",
               "ViewState": "AQIAABgAAAAAAAAAAAAUwDoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T02:22:03.447Z",
@@ -56,8 +56,8 @@
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.cs",
               "RelativeDocumentMoniker": "Main\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.cs [Design]",
-              "RelativeToolTip": "Main\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Keato\\Documents\\Playstation Projects 024\\Frame4 ToolBase\\Main\\MainForm.cs [Design]*",
+              "RelativeToolTip": "Main\\MainForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T02:05:30.792Z",
               "EditorCaption": " [Design]"

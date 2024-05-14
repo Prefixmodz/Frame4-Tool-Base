@@ -34,6 +34,9 @@ namespace Frame4_ToolBase
             this.PictureBoxGaystation = new CBH.Controls.CrEaTiiOn_Ultimate_PictureBox();
             this.crEaTiiOn_Shadow_TabControl1 = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.groupboxNotify = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_GroupBox();
+            this.btnSendNotify = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_Button();
+            this.BoxNotify = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_TextBodx();
             this.btnReboot = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_Button();
             this.BoxIP = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_TextBodx();
             this.btnDisconnect = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_Button();
@@ -47,14 +50,11 @@ namespace Frame4_ToolBase
             this.crEaTiiOn_Ultimate_GradientLabel1 = new CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_GradientLabel();
             this.crEaTiiOn_Label1 = new CBH.Controls.CrEaTiiOn_Label();
             this.LabelFrame4Vers = new CBH.Controls.CrEaTiiOn_Label();
-            this.groupboxNotify = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_GroupBox();
-            this.BoxNotify = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_TextBodx();
-            this.btnSendNotify = new CBH.Shadow.Controls.CrEaTiiOn_Shadow_Button();
             this.crEaTiiOn_Shadow_TabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            this.groupboxNotify.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.crEaTiiOn_Shadow_TabControl2.SuspendLayout();
-            this.groupboxNotify.SuspendLayout();
             this.SuspendLayout();
             // 
             // crEaTiiOn_ModernControlBox1
@@ -128,6 +128,65 @@ namespace Frame4_ToolBase
             this.tabPage1.Size = new System.Drawing.Size(853, 490);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Main";
+            // 
+            // groupboxNotify
+            // 
+            this.groupboxNotify.Animated = true;
+            this.groupboxNotify.BorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.groupboxNotify.Colors = new CBH.Shadow.Controls.Bloom[0];
+            this.groupboxNotify.Controls.Add(this.btnSendNotify);
+            this.groupboxNotify.Controls.Add(this.BoxNotify);
+            this.groupboxNotify.Customization = "";
+            this.groupboxNotify.Enabled = false;
+            this.groupboxNotify.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.groupboxNotify.Image = null;
+            this.groupboxNotify.Location = new System.Drawing.Point(6, 37);
+            this.groupboxNotify.Movable = true;
+            this.groupboxNotify.Name = "groupboxNotify";
+            this.groupboxNotify.NoRounding = false;
+            this.groupboxNotify.Sizable = true;
+            this.groupboxNotify.Size = new System.Drawing.Size(287, 90);
+            this.groupboxNotify.SmartBounds = true;
+            this.groupboxNotify.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
+            this.groupboxNotify.TabIndex = 6;
+            this.groupboxNotify.Text = "Notify";
+            this.groupboxNotify.TransparencyKey = System.Drawing.Color.Empty;
+            this.groupboxNotify.Transparent = false;
+            // 
+            // btnSendNotify
+            // 
+            this.btnSendNotify.Colors = new CBH.Shadow.Controls.Bloom[0];
+            this.btnSendNotify.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnSendNotify.Customization = "";
+            this.btnSendNotify.Font = new System.Drawing.Font("Segoe UI", 8F);
+            this.btnSendNotify.Image = null;
+            this.btnSendNotify.Location = new System.Drawing.Point(3, 59);
+            this.btnSendNotify.Name = "btnSendNotify";
+            this.btnSendNotify.NoRounding = false;
+            this.btnSendNotify.Size = new System.Drawing.Size(281, 24);
+            this.btnSendNotify.TabIndex = 1;
+            this.btnSendNotify.Text = "Notify";
+            this.btnSendNotify.Transparent = false;
+            this.btnSendNotify.Click += new System.EventHandler(this.btnSendNotify_Click);
+            // 
+            // BoxNotify
+            // 
+            this.BoxNotify.Colors = new CBH.Shadow.Controls.Bloom[0];
+            this.BoxNotify.Customization = "";
+            this.BoxNotify.Font = new System.Drawing.Font("Verdana", 8F);
+            this.BoxNotify.Image = null;
+            this.BoxNotify.Location = new System.Drawing.Point(3, 29);
+            this.BoxNotify.MaxLength = 32767;
+            this.BoxNotify.Multiline = false;
+            this.BoxNotify.Name = "BoxNotify";
+            this.BoxNotify.NoRounding = false;
+            this.BoxNotify.ReadOnly = false;
+            this.BoxNotify.Size = new System.Drawing.Size(281, 24);
+            this.BoxNotify.TabIndex = 0;
+            this.BoxNotify.Text = "Notify";
+            this.BoxNotify.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.BoxNotify.Transparent = false;
+            this.BoxNotify.UseSystemPasswordChar = false;
             // 
             // btnReboot
             // 
@@ -296,65 +355,6 @@ namespace Frame4_ToolBase
             this.LabelFrame4Vers.TabIndex = 21;
             this.LabelFrame4Vers.Text = "0.0.0";
             // 
-            // groupboxNotify
-            // 
-            this.groupboxNotify.Animated = true;
-            this.groupboxNotify.BorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.groupboxNotify.Colors = new CBH.Shadow.Controls.Bloom[0];
-            this.groupboxNotify.Controls.Add(this.btnSendNotify);
-            this.groupboxNotify.Controls.Add(this.BoxNotify);
-            this.groupboxNotify.Customization = "";
-            this.groupboxNotify.Enabled = false;
-            this.groupboxNotify.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.groupboxNotify.Image = null;
-            this.groupboxNotify.Location = new System.Drawing.Point(6, 37);
-            this.groupboxNotify.Movable = true;
-            this.groupboxNotify.Name = "groupboxNotify";
-            this.groupboxNotify.NoRounding = false;
-            this.groupboxNotify.Sizable = true;
-            this.groupboxNotify.Size = new System.Drawing.Size(287, 90);
-            this.groupboxNotify.SmartBounds = true;
-            this.groupboxNotify.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
-            this.groupboxNotify.TabIndex = 6;
-            this.groupboxNotify.Text = "Notify";
-            this.groupboxNotify.TransparencyKey = System.Drawing.Color.Empty;
-            this.groupboxNotify.Transparent = false;
-            // 
-            // BoxNotify
-            // 
-            this.BoxNotify.Colors = new CBH.Shadow.Controls.Bloom[0];
-            this.BoxNotify.Customization = "";
-            this.BoxNotify.Font = new System.Drawing.Font("Verdana", 8F);
-            this.BoxNotify.Image = null;
-            this.BoxNotify.Location = new System.Drawing.Point(3, 29);
-            this.BoxNotify.MaxLength = 32767;
-            this.BoxNotify.Multiline = false;
-            this.BoxNotify.Name = "BoxNotify";
-            this.BoxNotify.NoRounding = false;
-            this.BoxNotify.ReadOnly = false;
-            this.BoxNotify.Size = new System.Drawing.Size(281, 24);
-            this.BoxNotify.TabIndex = 0;
-            this.BoxNotify.Text = "Notify";
-            this.BoxNotify.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.BoxNotify.Transparent = false;
-            this.BoxNotify.UseSystemPasswordChar = false;
-            // 
-            // btnSendNotify
-            // 
-            this.btnSendNotify.Colors = new CBH.Shadow.Controls.Bloom[0];
-            this.btnSendNotify.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnSendNotify.Customization = "";
-            this.btnSendNotify.Font = new System.Drawing.Font("Segoe UI", 8F);
-            this.btnSendNotify.Image = null;
-            this.btnSendNotify.Location = new System.Drawing.Point(3, 59);
-            this.btnSendNotify.Name = "btnSendNotify";
-            this.btnSendNotify.NoRounding = false;
-            this.btnSendNotify.Size = new System.Drawing.Size(281, 24);
-            this.btnSendNotify.TabIndex = 1;
-            this.btnSendNotify.Text = "Notify";
-            this.btnSendNotify.Transparent = false;
-            this.btnSendNotify.Click += new System.EventHandler(this.btnSendNotify_Click);
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -377,9 +377,9 @@ namespace Frame4_ToolBase
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.crEaTiiOn_Shadow_TabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
+            this.groupboxNotify.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
             this.crEaTiiOn_Shadow_TabControl2.ResumeLayout(false);
-            this.groupboxNotify.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
