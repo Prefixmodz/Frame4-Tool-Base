@@ -1,0 +1,32 @@
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4 ToolBase.csproj.AssemblyReference.cache
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\CBH.Controls.CrEaTiiOn_ColorSliderVertical.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\CBH.Controls.CrEaTiiOn_ComboBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\CBH.Controls.CrEaTiiOn_ModernTextBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_FancyComboBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_GradientTextBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4 ToolBase.csproj.GenerateResource.cache
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4 ToolBase.csproj.CoreCompileInputs.cache
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\bin\Debug\Frame4 ToolBase.exe.config
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\bin\Debug\Frame4 ToolBase.exe
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\bin\Debug\Frame4 ToolBase.pdb
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4_ToolBase.MainForm.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4_ToolBase.Properties.Resources.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4_ToolBase.Theme.ThemeBase.Ultimate_Controls.CrEaTiiOn_Ultimate_FancyTextBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4 ToolBase.exe
+C:\Users\Keato\Documents\Playstation Projects 024\Playstation ToolBox\obj\Debug\Frame4 ToolBase.pdb
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\bin\Debug\Frame4 ToolBase.exe.config
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\bin\Debug\Frame4 ToolBase.exe
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\bin\Debug\Frame4 ToolBase.pdb
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4 ToolBase.csproj.AssemblyReference.cache
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4_ToolBase.MainForm.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4_ToolBase.Properties.Resources.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\CBH.Controls.CrEaTiiOn_ColorSliderVertical.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\CBH.Controls.CrEaTiiOn_ComboBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\CBH.Controls.CrEaTiiOn_ModernTextBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_FancyComboBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4_ToolBase.Theme.ThemeBase.Ultimate_Controls.CrEaTiiOn_Ultimate_FancyTextBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_GradientTextBox.resources
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4 ToolBase.csproj.GenerateResource.cache
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4 ToolBase.csproj.CoreCompileInputs.cache
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4 ToolBase.exe
+C:\Users\Keato\Documents\Playstation Projects 024\Frame4 ToolBase\obj\Debug\Frame4 ToolBase.pdb
